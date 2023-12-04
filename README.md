@@ -1,5 +1,9 @@
 # Overview
-This analysis is to solve a Supply Chain Issue in the FMCG domain, provided by Codebasics. Here is the [challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/5).
+This analysis is to solve a Supply Chain Issue in the FMCG domain, provided by Codebasics. 
+>
+Here is the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/5).
+>
+Interactive [Dashboard](https://www.novypro.com/project/atliq-mart---supply-chain-analysis-dashboard-power-bi).
 >
 ![image](https://github.com/thupham16/Supply-Chain-Analysis-Atliq-Mart/assets/119646834/af5e84a8-6df9-4089-bcbe-7ec0d20838b8)
 
