@@ -5,6 +5,8 @@ Here is the [Challenge](https://codebasics.io/challenge/codebasics-resume-projec
 >
 Interactive [Dashboard](https://www.novypro.com/project/atliq-mart---supply-chain-analysis-dashboard-power-bi).
 >
+[Presentation](https://github.com/thupham16/Supply-Chain-Analysis-Atliq-Mart/blob/main/ATLIQ%20MART%20-%20Supply%20Chain%20Analyis.pdf)
+>
 ![image](https://github.com/thupham16/Supply-Chain-Analysis-Atliq-Mart/assets/119646834/af5e84a8-6df9-4089-bcbe-7ec0d20838b8)
 
 # Problem and Business Requirements
